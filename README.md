@@ -1,7 +1,7 @@
-# Univent - Real-Time College Event Management System (MERN Stack)
+# Univent - Real-Time Event Management System (MERN Stack)
 
 <div align="center">
-  <img src="frontend/public/logo3.jpg" alt="Univent - College Event Management System Logo" width="800" />
+  <img src="frontend/public/logo3.jpg" alt="Univent - Event Management System Logo" width="800" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 ## 🚀 Overview
-Univent is a comprehensive, real-time event management platform designed specifically for the dynamic environment of colleges and universities. Built on the **MERN stack (MongoDB, Express.js, React.js, Node.js)** with a **microservice architecture**, it provides a centralized system for organizing and participating in college fests, workshops, and technical events. The platform features live announcements and interactive leaderboards to boost engagement and streamline communication between organizers and participants.
+Univent is a comprehensive, real-time event management platform designed specifically for the dynamic environment of and universities. Built on the **MERN stack (MongoDB, Express.js, React.js, Node.js)** with a **microservice architecture**, it provides a centralized system for organizing and participating in fests, workshops, and technical events. The platform features live announcements and interactive leaderboards to boost engagement and streamline communication between organizers and participants.
 
 This open-source project is a perfect example of a full-stack web application using modern technologies like **Socket.IO for real-time communication** and **JWT for secure authentication**.
 
@@ -28,7 +28,7 @@ Univent is packed with features to create a seamless event experience:
 
 <div align="center">
   <img src="frontend/public/univent-readme-images/event-page.png" alt="Screenshot of the main event management page in Univent" width="600" />
-  <p><em>Event Management Interface for College Fests</em></p>
+  <p><em>Event Management Interface for Fests</em></p>
 </div>
 
 ## 🛠️ Technology Stack
@@ -152,5 +152,3 @@ univent/
 └── docker-compose.yml    # Docker configuration for all services
 ```
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
