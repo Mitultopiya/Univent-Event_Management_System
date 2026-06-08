@@ -61,7 +61,7 @@ Univent is designed using a **microservice architecture** to ensure scalability,
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AbhishekBalija/Univent.git](https://github.com/AbhishekBalija/Univent.git)
+    git clone [https://github.com/Mitultopiya/Univent.git](https://github.com/Mitultopiya/Univent.git)
     cd univent
     ```
 
